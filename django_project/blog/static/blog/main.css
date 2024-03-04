@@ -47,12 +47,11 @@ a.article-title:hover {
 
 .article-content {
   white-space: pre-line;
-  margin-left: 110px ;  /* fix a/c to .artcle-img */
 }
 
 .article-img {
-  height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
   margin-right: 16px;
 }
 
